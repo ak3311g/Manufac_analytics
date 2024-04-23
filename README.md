@@ -6,6 +6,8 @@ This project involves calculating mean, median, mode from a dataset of wine.
 
 ## Challenges Faced
 
+Don't know much about Typescript so learned about typescript and also about yarn because I use npm mostly
+
 ## Lessons Learned
 
 Thank you for considering my submission for the Data Filtering Project. This README.md file provides comprehensive documentation on design decisions, challenges faced, and other relevant details.
